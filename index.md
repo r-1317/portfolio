@@ -1,9 +1,9 @@
 # ポートフォリオ
-(2024年2月時点)
+(2024年5月時点)
 
 ## プロフィール
 
-高等専門学校第二学年<br>[GitHub](https://github.com/r-1317/)<br>[AtCoder](https://atcoder.jp/users/r1317)
+大阪公立大学工業高等専門学校 第三学年<br>[GitHub](https://github.com/r-1317/)<br>[AtCoder](https://atcoder.jp/users/r1317)
 ## 成果物等
 
 -   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成<br>  [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
@@ -26,6 +26,7 @@
 ### ソフトウェア (ウェブサービス)
  - **Git/GitHub**<br>学校の授業で習うレベル
 - **VSCode**<br>学校の授業で習うレベル
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODg0MjMzMCwtMTMxMDE5MTc0NV19
+eyJoaXN0b3J5IjpbLTc0MzQ1NDQwLC0xMzEwMTkxNzQ1XX0=
 -->
