@@ -12,7 +12,7 @@
  
 -  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
 
--  **Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。<br>制作時間: 約4時間
+-  **Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。
 
 
 
@@ -29,5 +29,6 @@
 - **Windows**<br>学校用ノートPCで使用
 - **Linux Mint**<br>自宅のデスクトップで使用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTE5MjkzMCwtMTMxMDE5MTc0NV19
+eyJoaXN0b3J5IjpbOTQ1NDE0NDgyLDE2OTExOTI5MzAsLTEzMT
+AxOTE3NDVdfQ==
 -->
