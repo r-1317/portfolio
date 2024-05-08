@@ -26,9 +26,8 @@
 ### ソフトウェア (ウェブサービス)
  - **Git/GitHub**<br>学校の授業で習うレベル
 - **VSCode**<br>学校の授業で習うレベル
-- **Windows 10**<br>学校用PCで使用
-- **Linux Mint**<br>学校用PCで使用
+- **Windows**<br>学校用ノートPCで使用
+- **Linux Mint**<br>自宅のデスクトップで使用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ4MTkzMTUsLTEzMTAxOTE3NDVdfQ
-==
+eyJoaXN0b3J5IjpbMTY5MTE5MjkzMCwtMTMxMDE5MTc0NV19
 -->
