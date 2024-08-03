@@ -20,15 +20,14 @@
 
 ### プログラミング言語
 
- - **Python言語**<br> 学校の授業で習うレベル
- - **Arduino言語**<br> 学校の授業で習うレベル
- - **Scratch**<br> 中学生の頃に友人とゲームを制作していた
+ - **Python**<br> AtCoderで使用
+ - **C言語**<br> 学校の授業で習うレベル
 ### ソフトウェア (ウェブサービス)
  - **Git/GitHub**<br>学校の授業で習うレベル
 - **VSCode**<br>学校の授業で習うレベル
 - **Windows**<br>学校用ノートPCで使用
 - **Linux Mint**<br>自宅のデスクトップで使用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NDE0NDgyLDE2OTExOTI5MzAsLTEzMT
-AxOTE3NDVdfQ==
+eyJoaXN0b3J5IjpbNDg0MDczMDgsOTQ1NDE0NDgyLDE2OTExOT
+I5MzAsLTEzMTAxOTE3NDVdfQ==
 -->
