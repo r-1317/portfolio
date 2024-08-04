@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <title>JavaScriptとTypeScriptについて</title>
+      <link href="main.css" rel="stylesheet">
+    </head>
+    <body>
+      <div class="container">
+
+        <h1 id="javascriptとtypescriptについて" class="underline">JavaScriptとTypeScriptについて</h1>
+        <p>JavaScriptとTypeScriptは、ウェブ開発において非常に重要なプログラミング言語です。それぞれの特徴と違いについて説明します。</p>
+        <h2 id="javascript" class="underline">JavaScript</h2>
+        <img src="js.png" alt="JavaScriptのロゴらしきもの" class="image">
+        <h3 id="js-概要">概要</h3>
+        <ul>
+          <li>JavaScriptは、ウェブブラウザ上で動作するスクリプト言語です。Netscapeによって1995年に開発されました。</li>
+          <li>現在では、サーバーサイド（<a href="https://nodejs.org">Node.js</a>）やデスクトップアプリケーション（<a href="https://www.electronjs.org/">Electron</a>）など、さまざまな環境で利用されています。</li>
+        </ul>
+        <h3 id="js-特徴">特徴</h3>
+        <ol>
+          <li><strong>動的型付け</strong>:
+          <ul>
+            <li>変数の型が実行時に決まるため、柔軟性が高いが型エラーが発生しやすい。</li>
+          </ul>
+          </li>
+          <li><strong>インタープリター言語</strong>:
+          <ul>
+            <li>コードは逐次実行され、即座に結果が得られる。</li>
+          </ul>
+          </li>
+          <li><strong>非同期プログラミング</strong>:
+          <ul>
+            <li>非同期処理を簡単に扱えるよう、コールバック、Promises、Async/Awaitなどの機能が充実している。</li>
+          </ul>
+          </li>
+          <li><strong>オブジェクト指向とプロトタイプベース</strong>:
+          <ul>
+            <li>クラスベースのオブジェクト指向とは異なり、プロトタイプベースのオブジェクト指向を採用している。</li>
+          </ul>
+          </li>
+        </ol>
+        <h3 id="js-利用シーン">利用シーン</h3>
+        <ul>
+          <li>ウェブページのインタラクティブな要素（ボタンのクリック、フォームの入力など）</li>
+          <li>フロントエンドフレームワーク（<a href="https://react.dev/">React</a>, <a href="https://angular.dev/">Angular</a>, <a href="https://vuejs.org/">Vue.js</a>）</li>
+          <li>サーバーサイドプログラミング（<a href="https://nodejs.org">Node.js</a>）</li>
+        </ul>
+        <h2 id="typescript" class="underline">TypeScript</h2>
+        <img src="ts.svg" alt="TypeScriptのロゴ" class="image">
+        <h3 id="ts-概要">概要</h3>
+        <ul>
+          <li>TypeScriptは、Microsoftによって開発されたJavaScriptのスーパーセットで、JavaScriptに型定義を追加したものです。</li>
+          <li>2012年に公開され、オープンソースプロジェクトとしてGitHubでホストされています。</li>
+        </ul>
+        <h3 id="ts-特徴">特徴</h3>
+        <ol>
+          <li><strong>静的型付け</strong>:
+          <ul>
+            <li>コードの実行前に型チェックを行うため、バグの発見が早く、コードの安全性が高まる。</li>
+          </ul>
+          </li>
+          <li><strong>最新のJavaScript機能</strong>:
+          <ul>
+            <li>TypeScriptは最新のECMAScript標準に準拠しており、ブラウザが対応していない機能もコンパイル時に変換される。</li>
+          </ul>
+          </li>
+          <li><strong>強力なIDEサポート</strong>:
+          <ul>
+            <li>型情報により、Visual Studio CodeなどのIDEでのオートコンプリートやリファクタリングが強化される。</li>
+          </ul>
+          </li>
+          <li><strong>拡張可能な型定義</strong>:
+          <ul>
+            <li>外部ライブラリに対しても型定義ファイル（.d.tsファイル）を作成することで、TypeScript環境下で安全に利用できる。</li>
+          </ul>
+          </li>
+        </ol>
+        <h3 id="ts-利用シーン">利用シーン</h3>
+        <ul>
+          <li>大規模なウェブアプリケーション開発</li>
+          <li>安全性と可読性を重視するプロジェクト</li>
+          <li>チーム開発においてコードの一貫性を保つため</li>
+        </ul>
+        <h2 id="違いのまとめ" class="underline">違いのまとめ</h2>
+        <p>JavaScriptは動的型付けのスクリプト言語で、フレキシブルですが型エラーが発生しやすいです。TypeScriptはJavaScriptのスーパーセットで静的型付けを採用し、コードの安全性が高まります。JavaScriptは実行時にコードを解釈し、すぐに結果が得られますが、TypeScriptはコンパイルされてJavaScriptに変換されます。</p>
+        <p>学習コストはJavaScriptの方が低いですが、TypeScriptは強力なIDEサポートがあり、開発効率が向上します。JavaScriptは小規模なスクリプトやフロントエンド開発に向いており、TypeScriptは大規模なアプリケーションやチーム開発に適しています。</p>
+        <p>それぞれの特性を理解し、プロジェクトの要件に応じて使い分けることが重要です。</p>
+        <br>
+        <p>本コンテンツの作成時間（HTML/CSSの設計・実装を含む）：<strong>約6.5時間</strong></p>
+            
+          </div>
+        </body>
+        </html>

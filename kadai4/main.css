@@ -1,0 +1,31 @@
+body {
+  display: flex; /* 画面全体の配置を調整するための設定 */
+  justify-content: center; /* コンテンツを中央に配置 */
+  padding: 0px 10px; /* 画面の上下に 0px の余白、左右に10pxの余白を設定 */
+}
+
+.container {
+  max-width: 800px; /* コンテンツの最大幅を768pxに制限 */
+  width: 100%; /* コンテンツが幅いっぱいに広がるように設定 */
+  margin: 0 auto; /* コンテンツを中央に配置 */
+}
+
+
+img {
+  width: 128px; /* 画像の幅を100pxに設定 */
+  display: block; /* 画像をブロック要素に設定 */
+  /*margin: 0 auto; /* 画像を中央に配置 */
+  /*border-radius: 10px; /* 画像の角を丸く設定 */
+  /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* ドロップシャドウを設定 */
+}
+
+html {
+  font-family: "Yu Gothic", sans-serif; /* フォントを設定 */
+  font-weight: 400;
+  font-style: normal;
+  background-color: #ffffff; /* 背景色を設定 */
+}
+
+.underline {
+  border-bottom: 1px solid #eaecef; /* 要素境界の下端に幅 1px の実線 */
+}
