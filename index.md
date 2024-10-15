@@ -57,3 +57,6 @@
 
 - **Linux Mint**<br>
   自宅のデスクトップPCで使用
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDA2NDk1MTk1XX0=
+-->
