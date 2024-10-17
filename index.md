@@ -7,10 +7,6 @@
 [GitHub](https://github.com/r-1317/)<br>
 [AtCoder](https://atcoder.jp/users/r1317)
 
-## 情報 3 課題④
-
-[kadai4.html](kadai4/kadai4.html)
-
 ## 成果物等
 
 - **AtCoderで提出したコード群**<br>
