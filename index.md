@@ -1,11 +1,11 @@
 # ポートフォリオ
-(2024年8月時点)
+(2024年11月時点)
 
 ## プロフィール
 
 大阪公立大学工業高等専門学校 第三学年<br>
 [GitHub](https://github.com/r-1317/)<br>
-[AtCoder](https://atcoder.jp/users/r1317)
+[AtCoder](https://atcoder.jp/users/r1317)(茶色/水色)
 
 ## 成果物等
 
@@ -31,13 +31,16 @@
 -->
 
 ## 実績等
-### [AtCoder Junior League 2024 Summer](https://atcoder.jp/contests/ajl2024summer)
+### AtCoder Junior League 2024 Summer
 **アルゴリズム部門**<br>
 - 高3個人部門　63位<br>
 - 高校部門　22位<br>
+
 **ヒューリスティック部門**<br>
 - 高3個人部門　13位<br>
 - 高校部門　15位<br>
+
+[https://atcoder.jp/contests/ajl2024summer](https://atcoder.jp/contests/ajl2024summer)
 
 
 
