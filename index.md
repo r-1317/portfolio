@@ -30,6 +30,16 @@
   [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。
 -->
 
+## 実績等
+### [AtCoder Junior League 2024 Summer](https://atcoder.jp/contests/ajl2024summer)
+**アルゴリズム部門**<br>
+- 高3個人部門　63位<br>
+- 高校部門　22位<br>
+**ヒューリスティック部門**<br>
+- 高3個人部門　13位<br>
+- 高校部門　15位<br>
+
+
 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
