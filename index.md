@@ -33,12 +33,12 @@
 ## 実績等
 ### AtCoder Junior League 2024 Summer
 **アルゴリズム部門**<br>
-- 高3個人部門　63位<br>
-- 高校部門　22位<br>
+- 高3個人部門　63位 (大阪3位)<br>
+- 高校部門　22位 (大阪1位)<br>
 
 **ヒューリスティック部門**<br>
-- 高3個人部門　13位<br>
-- 高校部門　15位<br>
+- 高3個人部門　13位 (大阪1位)<br>
+- 高校部門　15位 (大阪1位)<br>
 
 [https://atcoder.jp/contests/ajl2024summer](https://atcoder.jp/contests/ajl2024summer)
 
