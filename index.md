@@ -54,6 +54,10 @@
   [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
 -->
 
+- **オセロAI**<br>
+  [https://github.com/r-1317/othello](https://github.com/r-1317/othello)<br>
+  MiniMax法, Alpha-Beta法を用いた古典的AI
+
 -   **高専祭の展示物** (2年生)<br>
   単語リストの作成を担当<br>
   [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
@@ -66,3 +70,16 @@
 -  **Recall-Signature-Calculator** -2024年2月 完成<br>
   [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。
 -->
+
+## プログラミング3  課題3
+### タイトル
+Next-blog-app
+### 概要
+Next.js を使用して構築されたブログアプリ
+### スクリーンショット
+![スクリーンショット1](next-blog-1.png)<br>
+![スクリーンショット2](next-blog-2.png)
+### リポジトリURL
+  [https://github.com/r-1317/next-blog-app](https://github.com/r-1317/next-blog-app)<br>
+### 公開URL
+[https://next-blog-app-r1317.vercel.app/](https://next-blog-app-r1317.vercel.app/)
