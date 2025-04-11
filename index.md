@@ -1,28 +1,40 @@
 # ポートフォリオ
-(2025年3月時点)
+(2025年4月時点)
 
-## プロフィール
+# プロフィール
 
 大阪公立大学工業高等専門学校 第三学年<br>
 [GitHub](https://github.com/r-1317/)<br>
 [AtCoder](https://atcoder.jp/users/r1317) (緑/水色)
 
-## 経験等
-### AtCoder Junior League 2024 Summer
-**アルゴリズム部門**
+# 経験等
+## AtCoder
+https://atcoder.jp/users/r1317<br>
+アルゴリズムは緑で、ヒューリスティックは水色<br>
+主にヒューリスティックに力を入れている<br>
+
+### 例: AHC042の解法
+より少ない手数で、福を落とさずに鬼をすべて落とすという問題<br>
+![AtCoder Huristic Conetst 042 の解](img/AHC042_0000.gif)<br>
+[https://atcoder.jp/contests/ahc042/submissions/62337542](https://atcoder.jp/contests/ahc042/submissions/62337542)
+
+<!-- ToDo: 例の追加(AHC036?) -->
+
+## AtCoder Junior League 2024 Summer
+### アルゴリズム部門
 - 高3個人部門　63位 (大阪3位)
 - 高校部門　22位 (大阪1位)
 
-**ヒューリスティック部門**
+### ヒューリスティック部門
 - 高3個人部門　13位 (大阪1位)
 - 高校部門　15位 (大阪1位)
 
 [https://atcoder.jp/contests/ajl2024summer](https://atcoder.jp/contests/ajl2024summer)
 
 
-## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
+# プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
-### プログラミング言語
+## プログラミング言語
 
 - **Python**<br>
   AtCoder等で使用
@@ -30,7 +42,7 @@
 <!-- - **C言語**<br>
   学校の授業で習うレベル -->
 
-### ソフトウェア (ウェブサービス)
+## ソフトウェア (ウェブサービス)
 - **Git/GitHub**<br>
   最低限の基本的な操作ができる
 
@@ -44,7 +56,7 @@
   自宅のデスクトップPCで使用
 
 
-## 成果物等
+# 成果物等
 
 - **AtCoderで提出したコード群**<br>
   [https://github.com/r-1317/AtCoder](https://github.com/r-1317/AtCoder)
