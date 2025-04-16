@@ -3,18 +3,20 @@
 
 # プロフィール
 
-大阪公立大学工業高等専門学校 第三学年<br>
+大阪公立大学工業高等専門学校 第4学年<br>
 [GitHub](https://github.com/r-1317/)<br>
 [AtCoder](https://atcoder.jp/users/r1317) (緑/水色)
 
 # 経験等
 ## AtCoder
-https://atcoder.jp/users/r1317<br>
+[https://atcoder.jp/users/r1317](https://atcoder.jp/users/r1317)<br>
 アルゴリズムは緑で、ヒューリスティックは水色<br>
 主にヒューリスティックに力を入れている<br>
 
 ### 例: AHC042の解法
-より少ない手数で、福を落とさずに鬼をすべて落とすという問題<br>
+より少ない手数で、福神を落とさずに鬼をすべて落とすという問題<br>
+[chokudaiサーチ](https://chokudai.hatenablog.com/entry/2017/04/12/055515)を使用した。<br>
+結果は273位(1027人中)<br>
 ![AtCoder Huristic Conetst 042 の解](img/AHC042_0000.gif)<br>
 [https://atcoder.jp/contests/ahc042/submissions/62337542](https://atcoder.jp/contests/ahc042/submissions/62337542)
 
