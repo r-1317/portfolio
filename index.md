@@ -34,7 +34,7 @@
 [https://atcoder.jp/contests/ajl2024summer](https://atcoder.jp/contests/ajl2024summer)
 
 
-# プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
+# 経験・スキル・資格など
 
 ## プログラミング言語
 
@@ -57,6 +57,9 @@
 - **Linux Mint**<br>
   自宅のデスクトップPCで使用
 
+## 資格など
+- TOEIC L&R 815 点取得
+
 
 # 成果物等
 
@@ -72,9 +75,9 @@
   [https://github.com/r-1317/othello](https://github.com/r-1317/othello)<br>
   MiniMax法, Alpha-Beta法を用いた古典的AI
 
--   **高専祭の展示物** (2年生)<br>
+<!-- -   **高専祭の展示物** (2年生)<br>
   単語リストの作成を担当<br>
-  [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
+  [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html) -->
  
 -  **ThreadConnector** -2023年12月 完成<br>
   [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>
