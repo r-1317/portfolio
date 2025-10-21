@@ -5,7 +5,7 @@
 
 大阪公立大学工業高等専門学校 第4学年<br>
 [GitHub](https://github.com/r-1317/)<br>
-[AtCoder](https://atcoder.jp/users/r1317) (緑/水色)
+[AtCoder](https://atcoder.jp/users/r1317) (緑/青)
 
 # 経験等
 ## AtCoder
