@@ -10,7 +10,7 @@
 # 経験等
 ## AtCoder
 [https://atcoder.jp/users/r1317](https://atcoder.jp/users/r1317)<br>
-アルゴリズムは緑で、ヒューリスティックは水色<br>
+アルゴリズムは緑で、ヒューリスティックは青色<br>
 主にヒューリスティックに力を入れている<br>
 
 ### 例: AHC042の解法
